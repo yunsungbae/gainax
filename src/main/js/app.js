@@ -4,6 +4,8 @@
 const React = require('react');
 const ReactDOM = require('react-dom');
 const client = require('./client');
+
+var root = '/api';
 // end::vars[]
 
 // tag::app[]
